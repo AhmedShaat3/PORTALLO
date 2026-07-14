@@ -1,0 +1,29 @@
+{
+  "_instructions": "Drop certificate images into /public/certificates. Each image auto-appears on the site. Add an entry here keyed by the exact filename to attach a title, issuer, date, and links — files without an entry still show up with a filename-based title.",
+  "items": {
+    "certificate-placeholder-1.jpg": {
+      "title": "Certified Ethical Hacker (CEH)",
+      "issuer": "EC-Council",
+      "date": "2024",
+      "category": "Cybersecurity",
+      "verifyUrl": "https://example.com/verify",
+      "downloadUrl": "/certificates/certificate-placeholder-1.jpg"
+    },
+    "certificate-placeholder-2.jpg": {
+      "title": "AI & Machine Learning Professional Certificate",
+      "issuer": "Coursera / DeepLearning.AI",
+      "date": "2023",
+      "category": "Artificial Intelligence",
+      "verifyUrl": "https://example.com/verify",
+      "downloadUrl": "/certificates/certificate-placeholder-2.jpg"
+    },
+    "certificate-placeholder-3.jpg": {
+      "title": "Microsoft Certified: Power Platform Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2022",
+      "category": "Enterprise Platforms",
+      "verifyUrl": "https://example.com/verify",
+      "downloadUrl": "/certificates/certificate-placeholder-3.jpg"
+    }
+  }
+}

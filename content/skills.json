@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Artificial Intelligence",
+    "icon": "BrainCircuit",
+    "items": [
+      { "name": "Artificial Intelligence", "level": 92, "icon": "BrainCircuit" },
+      { "name": "Machine Learning", "level": 88, "icon": "Sparkles" }
+    ]
+  },
+  {
+    "category": "Security",
+    "icon": "ShieldCheck",
+    "items": [
+      { "name": "Cybersecurity", "level": 90, "icon": "ShieldCheck" },
+      { "name": "Networking", "level": 85, "icon": "Network" }
+    ]
+  },
+  {
+    "category": "Programming",
+    "icon": "Code2",
+    "items": [
+      { "name": "Python", "level": 93, "icon": "Code2" },
+      { "name": "Java", "level": 80, "icon": "Coffee" },
+      { "name": "JavaScript", "level": 87, "icon": "Braces" },
+      { "name": "SQL", "level": 84, "icon": "Database" }
+    ]
+  },
+  {
+    "category": "Enterprise Platforms",
+    "icon": "Building2",
+    "items": [
+      { "name": "SAP", "level": 75, "icon": "Building2" },
+      { "name": "SharePoint", "level": 78, "icon": "LayoutGrid" },
+      { "name": "Microsoft Power Platform", "level": 82, "icon": "Workflow" },
+      { "name": "Power BI", "level": 86, "icon": "BarChart3" }
+    ]
+  },
+  {
+    "category": "Infrastructure",
+    "icon": "Cloud",
+    "items": [
+      { "name": "Web Development", "level": 90, "icon": "Globe" },
+      { "name": "Linux", "level": 88, "icon": "Terminal" },
+      { "name": "Cloud Computing", "level": 85, "icon": "Cloud" }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "name": "Your Name",
+  "title": "Software Engineer · AI Specialist · Cybersecurity Professional",
+  "typingRoles": [
+    "Software Engineer",
+    "AI & Machine Learning Specialist",
+    "Cybersecurity Professional",
+    "Cloud & Automation Architect"
+  ],
+  "tagline": "I build intelligent, secure, and scalable systems — from neural networks to hardened infrastructure — turning complex problems into elegant, production-ready software.",
+  "photo": "/images/hero/profile-placeholder.jpg",
+  "resumeUrl": "/cv/resume-placeholder.pdf",
+  "location": "Riyadh, Saudi Arabia",
+  "email": "you@example.com",
+  "phone": "+966 000 000 000",
+  "social": {
+    "github": "https://github.com/yourhandle",
+    "linkedin": "https://linkedin.com/in/yourhandle",
+    "twitter": "https://x.com/yourhandle",
+    "email": "mailto:you@example.com"
+  },
+  "about": {
+    "biography": [
+      "I'm a systems-minded engineer who works at the intersection of artificial intelligence, software engineering, and cybersecurity. Over the past several years I've shipped production ML pipelines, hardened enterprise infrastructure, and built full-stack platforms used by real teams.",
+      "My work is guided by one idea: technology should be powerful, trustworthy, and simple to use. Whether I'm training a model, securing a network, or designing an interface, I hold every layer of the stack to the same standard."
+    ],
+    "mission": "To design intelligent systems that are secure by default and delightful to use — bridging the gap between cutting-edge AI research and dependable, real-world engineering.",
+    "values": [
+      { "title": "Security First", "description": "Every system I build is designed to resist failure and attack, not just to work on the happy path." },
+      { "title": "Relentless Curiosity", "description": "I study new architectures, threat models, and tools before they become mainstream." },
+      { "title": "Craft & Clarity", "description": "Clean code, clear documentation, and thoughtful UX are not optional extras — they're the job." },
+      { "title": "Impact Over Ego", "description": "I measure success by the problems solved and the teams empowered, not by credit taken." }
+    ],
+    "timeline": [
+      { "year": "2019", "label": "Started B.Sc. in Information Technology" },
+      { "year": "2021", "label": "First security research internship" },
+      { "year": "2022", "label": "Shipped first production ML system" },
+      { "year": "2023", "label": "Led full-stack platform for enterprise client" },
+      { "year": "2024", "label": "Specialized in applied AI & threat detection" },
+      { "year": "2025", "label": "Consulting on secure cloud architecture" }
+    ]
+  }
+}

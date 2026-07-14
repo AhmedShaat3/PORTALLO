@@ -1,0 +1,60 @@
+import {
+  BrainCircuit,
+  Sparkles,
+  ShieldCheck,
+  Network,
+  Code2,
+  Coffee,
+  Braces,
+  Database,
+  Building2,
+  LayoutGrid,
+  Workflow,
+  BarChart3,
+  Globe,
+  Terminal,
+  Cloud,
+  Trophy,
+  Award,
+  Star,
+  Medal,
+  FolderGit2,
+  BadgeCheck,
+  Briefcase,
+  Users,
+  GraduationCap,
+  Clock,
+  type LucideIcon
+} from 'lucide-react';
+
+export const ICONS: Record<string, LucideIcon> = {
+  BrainCircuit,
+  Sparkles,
+  ShieldCheck,
+  Network,
+  Code2,
+  Coffee,
+  Braces,
+  Database,
+  Building2,
+  LayoutGrid,
+  Workflow,
+  BarChart3,
+  Globe,
+  Terminal,
+  Cloud,
+  Trophy,
+  Award,
+  Star,
+  Medal,
+  FolderGit2,
+  BadgeCheck,
+  Briefcase,
+  Users,
+  GraduationCap,
+  Clock
+};
+
+export function getIcon(name: string): LucideIcon {
+  return ICONS[name] ?? Sparkles;
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "exp-1",
+    "company": "Company Name",
+    "logo": "/logos/company-placeholder-1.svg",
+    "position": "Senior Software Engineer & AI Lead",
+    "period": "2024 — Present",
+    "location": "Riyadh, Saudi Arabia",
+    "description": "Leading design and delivery of AI-powered internal tools and secure backend services for enterprise clients, from architecture through production deployment.",
+    "technologies": ["Python", "TypeScript", "React", "Azure", "Docker"],
+    "achievements": ["Cut incident response time by 40%", "Shipped 3 production ML models"]
+  },
+  {
+    "id": "exp-2",
+    "company": "Company Name",
+    "logo": "/logos/company-placeholder-2.svg",
+    "position": "Cybersecurity Analyst",
+    "period": "2022 — 2024",
+    "location": "Riyadh, Saudi Arabia",
+    "description": "Performed threat detection, vulnerability assessment, and security hardening across enterprise networks and cloud environments.",
+    "technologies": ["SIEM", "Linux", "Networking", "Python"],
+    "achievements": ["Reduced false-positive alerts by 55%", "Led SOC training program"]
+  },
+  {
+    "id": "exp-3",
+    "company": "Company Name",
+    "logo": "/logos/company-placeholder-3.svg",
+    "position": "Full-Stack Developer",
+    "period": "2021 — 2022",
+    "location": "Remote",
+    "description": "Built and maintained full-stack web applications and internal automation tools for a fast-moving product team.",
+    "technologies": ["JavaScript", "SQL", "Power Platform"],
+    "achievements": ["Automated 12 manual workflows", "Improved page load speed by 60%"]
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "en": {
+    "nav": { "about": "About", "skills": "Skills", "experience": "Experience", "projects": "Projects", "certificates": "Certificates", "awards": "Awards", "education": "Education", "gallery": "Gallery", "testimonials": "Testimonials", "contact": "Contact" },
+    "hero": { "downloadCv": "Download CV", "contactMe": "Contact Me", "scroll": "Scroll to explore" },
+    "about": { "title": "About Me", "eyebrow": "Who I am", "missionLabel": "Mission", "valuesLabel": "Values", "journeyLabel": "Journey" },
+    "skills": { "title": "Skills & Expertise", "eyebrow": "Capabilities" },
+    "experience": { "title": "Experience", "eyebrow": "Career Path" },
+    "projects": { "title": "Featured Projects", "eyebrow": "Selected Work", "all": "All", "viewGithub": "GitHub", "viewDemo": "Live Demo" },
+    "certificates": { "title": "Certificates", "eyebrow": "Credentials", "all": "All", "verify": "Verify", "download": "Download" },
+    "awards": { "title": "Awards & Achievements", "eyebrow": "Recognition" },
+    "education": { "title": "Education", "eyebrow": "Academic Background", "coursework": "Relevant Coursework" },
+    "gallery": { "title": "Gallery", "eyebrow": "Moments" },
+    "testimonials": { "title": "Testimonials", "eyebrow": "What people say" },
+    "stats": { "title": "By the Numbers" },
+    "contact": { "title": "Let's Work Together", "eyebrow": "Contact", "name": "Your Name", "email": "Your Email", "message": "Your Message", "send": "Send Message", "sending": "Sending...", "sent": "Message sent!" },
+    "footer": { "rights": "All rights reserved.", "quickLinks": "Quick Links", "connect": "Connect", "backToTop": "Back to top" }
+  },
+  "ar": {
+    "nav": { "about": "نبذة عني", "skills": "المهارات", "experience": "الخبرات", "projects": "المشاريع", "certificates": "الشهادات", "awards": "الجوائز", "education": "التعليم", "gallery": "معرض الصور", "testimonials": "آراء العملاء", "contact": "تواصل معي" },
+    "hero": { "downloadCv": "تحميل السيرة الذاتية", "contactMe": "تواصل معي", "scroll": "مرّر للاستكشاف" },
+    "about": { "title": "نبذة عني", "eyebrow": "من أنا", "missionLabel": "الرسالة", "valuesLabel": "القيم", "journeyLabel": "المسيرة المهنية" },
+    "skills": { "title": "المهارات والخبرات", "eyebrow": "القدرات" },
+    "experience": { "title": "الخبرة العملية", "eyebrow": "المسار المهني" },
+    "projects": { "title": "أبرز المشاريع", "eyebrow": "أعمال مختارة", "all": "الكل", "viewGithub": "جيت هاب", "viewDemo": "عرض حي" },
+    "certificates": { "title": "الشهادات", "eyebrow": "المؤهلات", "all": "الكل", "verify": "تحقق", "download": "تحميل" },
+    "awards": { "title": "الجوائز والإنجازات", "eyebrow": "تقدير" },
+    "education": { "title": "التعليم", "eyebrow": "الخلفية الأكاديمية", "coursework": "المقررات ذات الصلة" },
+    "gallery": { "title": "معرض الصور", "eyebrow": "لحظات" },
+    "testimonials": { "title": "آراء العملاء", "eyebrow": "ماذا يقولون" },
+    "stats": { "title": "بالأرقام" },
+    "contact": { "title": "لنعمل معًا", "eyebrow": "تواصل", "name": "الاسم", "email": "البريد الإلكتروني", "message": "رسالتك", "send": "إرسال الرسالة", "sending": "جارٍ الإرسال...", "sent": "تم إرسال الرسالة!" },
+    "footer": { "rights": "جميع الحقوق محفوظة.", "quickLinks": "روابط سريعة", "connect": "تواصل", "backToTop": "العودة للأعلى" }
+  }
+}

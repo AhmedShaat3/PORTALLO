@@ -1,0 +1,50 @@
+[
+  {
+    "id": "proj-1",
+    "title": "Threat Intelligence Dashboard",
+    "category": "Cybersecurity",
+    "description": "Real-time dashboard that aggregates network telemetry and flags anomalous behavior using a lightweight anomaly-detection model.",
+    "cover": "/images/projects/project-placeholder-1.jpg",
+    "gallery": ["/images/projects/project-placeholder-1.jpg", "/images/projects/project-placeholder-1b.jpg"],
+    "technologies": ["Python", "React", "SQL", "Docker"],
+    "github": "https://github.com/yourhandle/threat-dashboard",
+    "demo": "https://example.com/demo",
+    "stats": { "stars": 128, "users": "2.4k", "uptime": "99.9%" }
+  },
+  {
+    "id": "proj-2",
+    "title": "Neural Vision Classifier",
+    "category": "AI / Machine Learning",
+    "description": "A computer-vision pipeline for defect detection in manufacturing lines, deployed as a scalable inference API.",
+    "cover": "/images/projects/project-placeholder-2.jpg",
+    "gallery": ["/images/projects/project-placeholder-2.jpg"],
+    "technologies": ["Python", "PyTorch", "FastAPI", "Cloud"],
+    "github": "https://github.com/yourhandle/neural-vision",
+    "demo": "https://example.com/demo",
+    "stats": { "stars": 96, "users": "1.1k", "uptime": "99.7%" }
+  },
+  {
+    "id": "proj-3",
+    "title": "SecureOps Automation Suite",
+    "category": "Cloud & DevOps",
+    "description": "A Power Platform + Python automation suite that streamlines security ticket triage and compliance reporting.",
+    "cover": "/images/projects/project-placeholder-3.jpg",
+    "gallery": ["/images/projects/project-placeholder-3.jpg"],
+    "technologies": ["Power Platform", "SQL", "Python"],
+    "github": "https://github.com/yourhandle/secureops",
+    "demo": "https://example.com/demo",
+    "stats": { "stars": 64, "users": "800", "uptime": "99.5%" }
+  },
+  {
+    "id": "proj-4",
+    "title": "Enterprise Analytics Portal",
+    "category": "Web Development",
+    "description": "A responsive analytics portal built on top of SAP and Power BI data sources for executive reporting.",
+    "cover": "/images/projects/project-placeholder-4.jpg",
+    "gallery": ["/images/projects/project-placeholder-4.jpg"],
+    "technologies": ["React", "Power BI", "SAP", "JavaScript"],
+    "github": "https://github.com/yourhandle/analytics-portal",
+    "demo": "https://example.com/demo",
+    "stats": { "stars": 41, "users": "530", "uptime": "99.8%" }
+  }
+]

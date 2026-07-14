@@ -1,0 +1,6 @@
+[
+  { "id": "aw-1", "icon": "Trophy", "title": "1st Place — National Cybersecurity CTF", "description": "Led a 4-person team to first place in a nationwide capture-the-flag competition.", "date": "2024" },
+  { "id": "aw-2", "icon": "Award", "title": "Top Contributor — Open Source AI Toolkit", "description": "Recognized as a top-5 contributor to a widely used open-source ML toolkit.", "date": "2023" },
+  { "id": "aw-3", "icon": "Star", "title": "Employee of the Year", "description": "Awarded for delivering the highest-impact security initiative of the year.", "date": "2023" },
+  { "id": "aw-4", "icon": "Medal", "title": "Dean's List — Three Consecutive Semesters", "description": "Graduated with academic distinction in Information Technology.", "date": "2021" }
+]

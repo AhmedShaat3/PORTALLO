@@ -1,0 +1,23 @@
+[
+  {
+    "id": "t-1",
+    "name": "Client / Manager Name",
+    "role": "CTO, Company Name",
+    "photo": "/images/testimonials/testimonial-placeholder-1.jpg",
+    "quote": "One of the rare engineers who can move fluidly between AI research and hands-on security hardening. Every deliverable was thoughtful, well-documented, and genuinely secure."
+  },
+  {
+    "id": "t-2",
+    "name": "Colleague Name",
+    "role": "Engineering Lead, Company Name",
+    "photo": "/images/testimonials/testimonial-placeholder-2.jpg",
+    "quote": "Brought calm, structured thinking to every incident. Our detection coverage and response times improved dramatically after they joined the team."
+  },
+  {
+    "id": "t-3",
+    "name": "Partner Name",
+    "role": "Product Director, Company Name",
+    "photo": "/images/testimonials/testimonial-placeholder-3.jpg",
+    "quote": "A rare combination of technical depth and product sense. The dashboards and automation they built are still core to how our team operates."
+  }
+]

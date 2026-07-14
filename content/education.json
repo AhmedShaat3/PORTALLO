@@ -1,0 +1,18 @@
+[
+  {
+    "id": "edu-1",
+    "university": "University Name",
+    "degree": "B.Sc. in Information Technology",
+    "gpa": "GPA: 3.8 / 4.0",
+    "year": "2019 — 2023",
+    "coursework": ["Machine Learning", "Network Security", "Database Systems", "Cloud Architecture", "Software Engineering"]
+  },
+  {
+    "id": "edu-2",
+    "university": "Institute Name",
+    "degree": "Postgraduate Diploma in Cybersecurity",
+    "gpa": "GPA: 3.9 / 4.0",
+    "year": "2023 — 2024",
+    "coursework": ["Penetration Testing", "Threat Intelligence", "Applied Cryptography", "Incident Response"]
+  }
+]

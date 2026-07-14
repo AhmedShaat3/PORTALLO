@@ -1,0 +1,11 @@
+{
+  "_instructions": "Drop photos into /public/images/gallery. They auto-populate the masonry gallery. Optionally describe them here keyed by exact filename.",
+  "items": {
+    "gallery-placeholder-1.jpg": { "caption": "Speaking at a tech conference", "category": "Conference" },
+    "gallery-placeholder-2.jpg": { "caption": "Cybersecurity workshop", "category": "Workshop" },
+    "gallery-placeholder-3.jpg": { "caption": "Team hackathon", "category": "Event" },
+    "gallery-placeholder-4.jpg": { "caption": "Professional headshot session", "category": "Professional" },
+    "gallery-placeholder-5.jpg": { "caption": "AI meetup panel", "category": "Conference" },
+    "gallery-placeholder-6.jpg": { "caption": "On-site security audit", "category": "Professional" }
+  }
+}
