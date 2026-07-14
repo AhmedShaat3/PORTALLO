@@ -35,7 +35,10 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" dir="ltr" suppressHydrationWarning>
-      <body className={`${display.variable} ${body.variable} ${mono.variable} font-body custom-cursor-enabled`}>
+      <body 
+        className={`${display.variable} ${body.variable} ${mono.variable} font-body custom-cursor-enabled`}
+        style={{ backgroundColor: '#ffffff', color: '#0B1324' }}
+      >
         <AppProviders>
           <LoadingScreen />
           <ScrollProgress />

@@ -2,6 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+/* FORCE WHITE BACKGROUND - DO NOT REMOVE */
+html, body, #__next, main {
+  background-color: #ffffff !important;
+  color: #0B1324 !important;
+}
+
+.dark, .dark body, .dark main {
+  background-color: #ffffff !important;
+  color: #0B1324 !important;
+}
+
 :root {
   color-scheme: light;
 }
